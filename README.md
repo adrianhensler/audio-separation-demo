@@ -10,7 +10,7 @@ An interactive demonstration of AI-powered audio generation, mixing, and separat
 
 ## View Live
 
-Visit the demo at: [Your GitHub Pages URL will go here]
+**https://adrianhensler.github.io/audio-separation-demo/**
 
 ## Technologies
 
